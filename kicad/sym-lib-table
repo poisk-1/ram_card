@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "poisk_card")(type "KiCad")(uri "${KIPRJMOD}/poisk_card.kicad_sym")(options "")(descr ""))
+  (lib (name "jumper_3_bridged12_2")(type "KiCad")(uri "/home/peter/Projects/poisk/rom_card/jumper_3_bridged12_2.kicad_sym")(options "")(descr ""))
+)
